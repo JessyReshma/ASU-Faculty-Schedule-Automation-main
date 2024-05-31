@@ -41,9 +41,9 @@ Developed a web application for automating the emailing of faculty schedules, si
     ```
 
 ## Contributors
+- **[Jessy Reshma](https://github.com/JessyReshma)**
 - **[Ehtesham Sana](https://github.com/ehtesham-sana)**  
 - **[Ayush Srivastava](https://github.com/asriv106)**
-- **[Jessy Reshma](https://github.com/JessyReshma)** 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
